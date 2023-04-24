@@ -304,7 +304,7 @@ text-decoration: none;
 
  .mob-menu-list-icon {
         display: flex;
-        justify-content: space-between;
+        gap: 56px;
  }
 
  .mob-menu-item-icon {
